@@ -19,7 +19,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubElam&background=0a0a0f&ring=9f7cff&fire=cfcfff&currStreakLabel=9f7cff&sideNums=cfcfff&currStreakNum=6c63ff&sideLabels=9f7cff&dates=a0a0ff&border=6c63ff" height="180" alt="Streak stats" />
 
   <!-- Top Languages (dynamic & includes private repos) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubElam&layout=compact&langs_count=10&count_private=true&bg_color=0a0a0f&title_color=9f7cff&text_color=cfcfff&border_color=6c63ff" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubElam&layout=compact&langs_count=10&count_private=true&bg_color=0a0a0f&title_color=9f7cff&text_color=cfcfff&border_color=6c63ff" height="200" alt="Top languages" />
 </div>
 
 <br clear="both">
