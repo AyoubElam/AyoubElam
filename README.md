@@ -11,8 +11,8 @@
 ###
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AyoubElam&show_icons=true&include_all_commits=true&count_private=true&bg_color=1e1e2f&title_color=8a9eff&text_color=cad2f7&icon_color=8a9eff&border_color=8a9eff" height="150" alt="GitHub stats" />
+  <!-- GitHub Stats (Public Commits Only) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AyoubElam&show_icons=true&bg_color=1e1e2f&title_color=8a9eff&text_color=cad2f7&icon_color=8a9eff&border_color=8a9eff" height="150" alt="GitHub stats" />
 
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyoubElam&background=1e1e2f&ring=8a9eff&fire=cad2f7&currStreakLabel=8a9eff&sideNums=cad2f7&currStreakNum=8a9eff&sideLabels=8a9eff&dates=a0baff&border=8a9eff" height="150" alt="Streak stats" />
