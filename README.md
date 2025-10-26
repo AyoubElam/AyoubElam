@@ -11,9 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyoubElam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyoubElam&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubElam&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AyoubElam&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=8b5cf6&text_color=ffffff&icon_color=8b5cf6&border_color=8b5cf6" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyoubElam&background=000000&ring=8b5cf6&fire=8b5cf6&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=8b5cf6&sideLabels=8b5cf6&dates=999999&border=8b5cf6" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoubElam&layout=compact&langs_count=5&bg_color=000000&title_color=8b5cf6&text_color=ffffff&border_color=8b5cf6" height="150" alt="languages graph" />
 </div>
 
 ###
